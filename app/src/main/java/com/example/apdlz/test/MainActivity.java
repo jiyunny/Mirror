@@ -22,7 +22,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener, SecondLayout.OML{
-
+    //mirrortest
     static String ipset;
 
     @Override
